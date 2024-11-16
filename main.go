@@ -30,4 +30,7 @@ func main() {
 	}(wg, mych)
 
 	wg.Wait()
+
+	fmt.Println("channels has succesfully created ")
+	fmt.Println("channels  ")
 }
