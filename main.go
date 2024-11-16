@@ -32,4 +32,5 @@ func main() {
 	wg.Wait()
 
 	fmt.Println("channels has succesfully created ")
+	fmt.Println("channels  ")
 }
